@@ -1,0 +1,67 @@
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+## Mono gear
+*.pidb
+*.mdresources
+
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Re]leasePublic/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+bbin/
+bin/
+obj/
+[Log]s/
+
+## Visual Studio 2015/2017/2019/2022 cache directories
+.vs/
+# Visual Studio 2024+ solution index files
+*.slnx
+
+## MSTest test results
+TestResults/
+[Bb]uild[尝]Log.*
+
+## Packages application folder
+/packages/
+
+## Generated NuGet package files
+/*.nupkg
+# NuGet Packager manager
+clippy.json
+# NuGet Symbol Packager manager
+*.snupkg
+
+## Paket dependency manager
+.paket/
+
+## Tools
+_ReSharper*/
+*.[Cc]r[Cc]h
+*.DotSettings.user
+
+## Rider IDE
+.idea/
+
+## Visual Studio Code
+.vscode/
+
+## OS-generated files
+Thumbs.db
+EHthumbs.db
+Desktop.ini
+.DS_Store
+ 
